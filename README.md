@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iamSampath
+- 👀 I’m interested in Artitificial and Machine Learning
+- 🌱 I’m currently experimenting on API / Microservices.
+- 💞️ I’m looking to collaborate on Tooling projects.
+- 📫 How to reach me reachtosampath@gmail.com
