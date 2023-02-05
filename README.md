@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @iamSampath<br>👀 I’m interested in Project Management,Product Management, Finance and AI Applications.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me reachtosampath@gmail.com
+👋 Hi, I’m @iamSampath<br>👀 I’m interested in Project Management,Product Management, Finance and AI Applications.<br>💞️ I’m looking to collaborate on open source projects.<br>📫 How to reach me reachtosampath@gmail.com.
+
+Like my work and want me to implement more projects Support me here:
+
+<a href="https://www.buymeacoffee.com/iamsampath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 ## 🌐 Socials:
