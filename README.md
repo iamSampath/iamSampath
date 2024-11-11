@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @iamSampath<br>I am a Technical Program Manager, Life long Learner. </br><br>👀 I’m interested in Project/Program Management roles.<br>💞️ I’m looking to collaborate on open-source projects.<br>📫 How to reach me sampathkm09@yahoo.com.
 
-Like my work and want me to implement more projects Support me here:
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smedarametla) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4945866) 
 
