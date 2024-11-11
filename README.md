@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @iamSampath<br>I am a Project/Product Manager. </br><br>👀 I’m interested in Project Management and Product Management roles.<br>💞️ I’m looking to collaborate on open-source projects.<br>📫 How to reach me reachtosampath@gmail.com.
+👋 Hi, I’m @iamSampath<br>I am a Technical Program Manager, Life long Learner. </br><br>👀 I’m interested in Project/Program Management roles.<br>💞️ I’m looking to collaborate on open-source projects.<br>📫 How to reach me sampathkm09@yahoo.com.
 
 Like my work and want me to implement more projects Support me here:
 
