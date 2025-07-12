@@ -40,7 +40,7 @@ I’m a results-driven **Program Manager** with 8+ years of experience leading g
 
 ### 💬 **Let’s Connect**
 
-📧 Email: `sampath@example.com`  
+📧 Email: `replytosampath@gmail.com`  
 🔗 [LinkedIn](https://www.linkedin.com/in/smedarametla)  
 🌐 [Portfolio](https://iamsampath.github.io)
 
