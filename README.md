@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 ### **Sampath Kumar Medarametla**  
-🎯 *Program Manager | AI & Cloud Delivery Leader | PMP® Certified*
+🎯 *Founder | Program Manager  | AI & Cloud Delivery Leader | PMP® Certified*
 
 I’m a results-driven **Program Manager** with 8+ years of experience leading global AI, Cloud, and platform initiatives. I specialize in delivering strategic programs that drive measurable business outcomes by aligning cross-functional teams, stakeholders, and technology platforms.
 
